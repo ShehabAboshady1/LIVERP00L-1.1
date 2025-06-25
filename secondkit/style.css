@@ -83,12 +83,12 @@ body{
 
     @media (max-width:680px){
         h1{
-            font-size: 2rem;
+            font-size: 8vw;
             text-align: center;
         }
         
         .container{
-            width: 80%;
+            width: auto;
             padding:0px 15px;
             display: flex;
             flex-direction: column;
@@ -121,7 +121,7 @@ body{
             margin-bottom: 20px;
         }
         .second-section {
-            width: 80%;
+            width: auto;
             padding:0px 15px;
         flex-direction: column;
         text-align: center;
